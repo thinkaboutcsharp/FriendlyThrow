@@ -1,2 +1,2 @@
 # FriendlyThrow
-aims for throwing any exceptions in any time. just hobby!
+aims to throw any exceptions in any time. just hobby!
